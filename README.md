@@ -2,7 +2,7 @@
 
 A simple **Ping Pong** game built using **Python** and **Pygame**, featuring score tracking using **JSON**.
 
-## Features 🚀
+## Features
 
 - **Classic 2-player Ping Pong gameplay**
 - **Score persistence** using a JSON file (`scores.json`)
@@ -10,7 +10,7 @@ A simple **Ping Pong** game built using **Python** and **Pygame**, featuring sco
 - **Collision handling** for realistic ball movement
 - **Paddle controls for both players**
 
-## Installation 📥
+## Installation
 
 ### Prerequisites
 
@@ -42,7 +42,7 @@ A simple **Ping Pong** game built using **Python** and **Pygame**, featuring sco
   - `Up Arrow` - Move paddle up
   - `Down Arrow` - Move paddle down
 
-## Score Management 🏆
+## Score Management
 
 The game keeps track of scores using `scores.json`.
 
@@ -50,10 +50,10 @@ The game keeps track of scores using `scores.json`.
 - **Scores reset** when a player wins.
 - **To manually reset scores**, delete `scores.json` or modify it.
 
-## Contributing 🤝
+## Contributing
 
 Feel free to fork this repository and submit pull requests with improvements!
 
-## License 📝
+## License
 
 This project is licensed under the MIT License.
