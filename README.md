@@ -33,7 +33,7 @@ A simple **Ping Pong** game built using **Python** and **Pygame**, featuring sco
    python solution.py
    ```
 
-## How to Play 🎮
+## How to Play
 
 - **Left Player Controls:**
   - `W` - Move paddle up
