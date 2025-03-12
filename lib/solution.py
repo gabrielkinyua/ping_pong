@@ -12,7 +12,7 @@ FPS = 60
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 PADDLE_WIDTH, PADDLE_HEIGHT = 20, 100
-BALL_RADIUS = 7
+BALL_RADIUS = 6
 
 
 SCORE_FONT = pygame.font.SysFont("comicsans", 40)
@@ -59,7 +59,7 @@ class Paddle:
 
 class Ball:
     COLOR = WHITE
-    MAX_VEL = 7
+    MAX_VEL = 5
 
     def __init__(self, x, y, radius):
         self.x = self.original_x = x
